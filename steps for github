@@ -10,3 +10,8 @@ go to terminal
 8) first time when we create the repo we have to use this "https://github.com/venkatagopichand1810/githublearnMaster.git"
 9) git push ....first time git push --set-upstream origin master
 10) it will give the url where we can see the changes in the github
+11) git log -> will give all the history
+12) If we wanted to check which branch we are ...git branch
+13) git branch development is used to create new branch
+14) if i wanted to move from one branch to another branch...we have git checkout branchname
+
