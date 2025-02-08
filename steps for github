@@ -7,3 +7,6 @@ go to terminal
 5) git checkout . -> will discard all the changes of your local
 6) git checkout specificfile -> will discard only specific file
 7) git commit -m "message of the commit" -> it will commit our staged changes
+8) first time when we create the repo we have to use this "https://github.com/venkatagopichand1810/githublearnMaster.git"
+9) git push ....first time git push --set-upstream origin master
+10) it will give the url where we can see the changes in the github
